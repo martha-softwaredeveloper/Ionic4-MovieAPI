@@ -1,5 +1,5 @@
 # Ionic 4 - Movie App 
-[How to Build Your First Ionic 4 App with API Calls](https://youtu.be/3QPbBJgNF94)
+I followed Simmon Grimm's tutorial: [How to Build Your First Ionic 4 App with API Calls](https://youtu.be/3QPbBJgNF94)
 
 <img src="https://github.com/martha-softwaredeveloper/Ionic4-MovieAPI/blob/master/src/assets/screenshot.png" width="500"/>
 
